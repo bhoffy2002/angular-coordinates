@@ -20,7 +20,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:mateuszkocz/angular-coordinates.git"
+    "url": "git+ssh://git@github.com/bhoffy2002/angular-coordinates.git"
   },
   "engines": {
     "node": ">=7.9.0",
